@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <Header />
+
+    <Slider />
   </div>
 </template>
 
