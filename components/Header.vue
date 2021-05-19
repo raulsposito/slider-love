@@ -2,7 +2,7 @@
     <!-- This example requires Tailwind CSS v2.0+ -->
     <div class="pl-12 pt-12 bg-white h-32 md:flex md:items-center md:justify-between">
     <div class="flex-1 min-w-0">
-        <h2 class="text-2xl font-bold leading-7 text-gray-900 sm:text-3xl sm:truncate">
+        <h2 class="text-2xl font-bold text-center leading-7 text-gray-900 sm:text-3xl sm:truncate">
         Welcome to Vue Slider Love!
         </h2>
     </div>

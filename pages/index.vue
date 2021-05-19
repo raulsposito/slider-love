@@ -3,6 +3,8 @@
     <Header />
 
     <Slider />
+
+    <Footer />
   </div>
 </template>
 
